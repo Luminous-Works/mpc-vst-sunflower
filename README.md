@@ -77,3 +77,7 @@ and the SDK's bundled zig. Then:
 ## Licence
 
 MIT, Copyright (c) 2026 Lumina Aerospace LLC. See `LICENSE`. The MIT-licensed MPC Plugin SDK widgets used in the skin are recorded in `THIRD_PARTY_NOTICES.md`.
+
+## Contact
+
+owner@luminousworksllc.com (Lumina Aerospace LLC). Reports of what works and what does not on your MPC are welcome: device, MPC OS version, what happened.
