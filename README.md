@@ -76,4 +76,4 @@ and the SDK's bundled zig. Then:
 
 ## Licence
 
-MIT, Copyright (c) 2026 Lumina Aerospace LLC. See `LICENSE`, which also records the MIT-licensed MPC Plugin SDK widgets used in the skin.
+MIT, Copyright (c) 2026 Lumina Aerospace LLC. See `LICENSE`. The MIT-licensed MPC Plugin SDK widgets used in the skin are recorded in `THIRD_PARTY_NOTICES.md`.
