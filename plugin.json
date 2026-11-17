@@ -1,0 +1,17 @@
+{
+  "name": "Sunflower",
+  "manufacturer": "Lumina Aerospace LLC",
+  "version": "1.0.0",
+  "format": "vst2",
+  "kind": "instrument",
+  "uid": "L5cL",
+  "numInputs": 0,
+  "numOutputs": 2,
+  "category": "Synth",
+  "file32": "VST/sunflower-arm32.so",
+  "file64": "VST/sunflower-arm64.so",
+  "description": "Sunflower Fibonacci Sequencer: two arms step through a Vogel sunflower lattice (3:5 to 34:55 Fibonacci pairs, golden angle) over a Latin/Caribbean percussion bed. Self-sounding, follows the MPC clock. Lumina Aerospace LLC.",
+  "author": "Lumina Aerospace LLC",
+  "url": "",
+  "license": "MIT"
+}

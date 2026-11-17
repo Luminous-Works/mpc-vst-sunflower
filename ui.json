@@ -1,0 +1,65 @@
+{
+  "kit": {
+    "theme": "amber"
+  },
+  "pages": [
+    {
+      "name": "SPIRAL",
+      "controls": [
+        {
+          "param": "Arms",
+          "widget": "slider",
+          "overlay": "menu"
+        },
+        {
+          "param": "Pitch",
+          "widget": "switch"
+        },
+        {
+          "param": "Key",
+          "widget": "slider",
+          "overlay": "menu"
+        },
+        {
+          "param": "Mode",
+          "widget": "slider",
+          "overlay": "menu"
+        },
+        {
+          "param": "Cycle",
+          "widget": "switch"
+        },
+        {
+          "param": "Divergence",
+          "widget": "knob"
+        },
+        {
+          "param": "Groove",
+          "widget": "slider",
+          "overlay": "menu"
+        },
+        {
+          "param": "Output",
+          "widget": "fader"
+        }
+      ]
+    },
+    {
+      "name": "MIX",
+      "controls": [
+        {
+          "param": "Arm Level",
+          "widget": "knob"
+        },
+        {
+          "param": "Perc Level",
+          "widget": "knob"
+        },
+        {
+          "param": "Pluck Decay",
+          "widget": "knob"
+        }
+      ]
+    }
+  ]
+}
