@@ -45,8 +45,9 @@ Five programs: Sunflower 34:55, One Drop Spiral, Bossa Seeds, Cumbia Florets, Ar
 
 ## Install
 
-Unzip the release and copy the folder `Lumina Aerospace LLC - VST - Sunflower` into `VST2 Plugins` on the MPC's drive (`INSTALL.txt` in the zip has the steps). Both a 32-bit
-(Force, MPC Live, One, X, Key) and a 64-bit (Live II, One+, Key 61, X SE, Live III) build are included.
+Unzip the release and copy the folder `Lumina Aerospace LLC - VST - Sunflower` into `VST2 Plugins` on the MPC's drive (`INSTALL.txt` in the zip has the steps). Both builds are included
+and the MPC picks the one it needs: **32-bit ARM ("Gen1")** for Force, MPC X, X SE, Live, Live II, One, One+, Key 61 and Key 37, and **64-bit AArch64 ("Gen2")** for MPC Live III, XL and the
+newer 64-bit models (One G2, Key G2). Neither build has been run on a real device yet (see Status).
 
 ## Status: please read
 
